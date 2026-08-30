@@ -11,6 +11,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Azure Honeypot: Detecting a Live Attacks](https://github.com/KennyLyons0/azure-honeypot-investigation)** — Internet-facing Windows VM + MySQL, monitored with Microsoft Sentinel, Defender for Endpoint, and Log Analytics. Full KQL investigation, attack timeline, and MITRE ATT&CK mapping.
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 <hr/>
 
