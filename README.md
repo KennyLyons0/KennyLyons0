@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## Security Operations Home Lab
 
-- **[Security Operations Center Home Lab](https://github.com/KennyLyons0/Security-Operations-Center-Home-Lab)
+- **[Security Operations Center Home Lab](https://github.com/KennyLyons0/Security-Operations-Center-Home-Lab)**
 
 <hr/>
 
